@@ -6,6 +6,7 @@ MIDI Track Merger merges multiple tracks of a MIDI file into a single track. Thi
 
 - **Merge Tracks:** Combines all tracks in a MIDI file into one, preserving correct timing.
 - **Track Count Display:** Automatically displays the number of tracks in the selected input file.
+![image](https://github.com/user-attachments/assets/88748618-7bea-40aa-9dbe-0049376dac83)
 
 ## Requirements
 
